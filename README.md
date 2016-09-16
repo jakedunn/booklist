@@ -6,3 +6,4 @@
 5.  The Art of Warfare by Sun Tzu
 5.  Feynman, Richard P., Surely You're Joking, Mr. Feynman!
 6.  Feynman, Richard P, What Do You Care What Other People Think?:
+7.  A Mathematician's Lament by Paul D. Lockhart
