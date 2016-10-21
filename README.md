@@ -9,3 +9,4 @@
 7.  A Mathematician's Lament by Paul D. Lockhart
 8.  ~~Alien encounter, Dirk Schulze-Makuch~~
 9.  ~~Micro,by Michael Crichton~~
+10. ~~The Protos Mandate, Nick Kanas~~
